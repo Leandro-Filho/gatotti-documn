@@ -15,7 +15,7 @@
 - <a href=https://www.linkedin.com/in/emanuelly-cantarelliAlessandra>Emanuelly Cantarelli Dias</a>
 - <a href=https://www.linkedin.com/in/lucas-pomin-62408b350/>Lucas Aquilino Pomin</a> 
 - <a href=linkedin.com/in/leandro-barankiewicz-8a293a345>Leandro Precaro Barankiewicz Filho</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
+- <a href=https://www.linkedin.com/in/yuriboczar/>Yuri Lessa Boczar</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
 
