@@ -16,7 +16,7 @@
 - <a href=https://www.linkedin.com/in/lucas-pomin-62408b350/>Lucas Aquilino Pomin</a> 
 - <a href=linkedin.com/in/leandro-barankiewicz-8a293a345>Leandro Precaro Barankiewicz Filho</a> 
 - <a href=https://www.linkedin.com/in/yuriboczar/>Yuri Lessa Boczar</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
+- <a href=https://www.linkedin.com/in/breno-silva-566980350/>Breno Farias Gomes Da Silva</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
 
 ## 👩‍🏫 Professores:
