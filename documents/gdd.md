@@ -70,17 +70,17 @@
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
-*Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
+*Após o kick-off com o parceiro Dr. Pet, foram definidos os requisitos para o desenvolvimento e bom funcionamento do jogo Gatoti. Estes requisitos se encontram no quadro a seguir.*
 
-*ATUALIZE ESTA SEÇÃO SEMPRE QUE ALGUM REQUISITO MUDAR EM SEU PROJETO*
-
-*Exemplo de tabela de requisitos*
+*Quadro 1 - requisitos do jogo*
 \# | Requisito  
 --- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+1 | Ao acessar a tela inicial, o tutor deve selecionar o botão de play para o inicio do jogo
+2 | O usuário só pode esmagar um inimigo por vez
+3 | Ao alcançar x quantidade de pontos, o tutor será notificado de recompesar o gato
+4 | O jogo contará com a progressão de fases que apresentam inimigos, dinâmicas e progressão diferentes
+5 | A primeira fase funciona como um tutorial, para que o usuário aprenda a dinâmica do jogo
+6 | O jogo possui ambientação que simula situações que estimulam os instintos de caça do usuário
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
