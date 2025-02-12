@@ -31,9 +31,14 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto (até 600 palavras)*
+Gatotti tem como objetivo primordial ativar os instintos de caça dos felinos, especialmente aqueles que, devido à rotina doméstica e sedentária, permanecem inibidos e subutilizados. A ideia é proporcionar uma experiência que os incentive a reativar esses comportamentos naturais, os quais muitas vezes ficam adormecidos em função da falta de estímulos adequados.
 
-*Inclua o link para o jogo aqui*
+As fases são projetadas progressivamente, conforme o usuário desbloqueia os níveis de dificuldade. O gato transita de ambientes internos – restritos ao domicílio ou apartamento – para espaços externos, como ruas e áreas arborizadas, onde os desafios e estímulos aumentam de forma gradual, juntamente com a expertise e velocidade da presa. Este percurso é cuidadosamente desenvolvido para proporcionar ao felino uma imersão que se assemelha à exploração do seu habitat natural, incentivando a busca ativa e o desenvolvimento dos seus instintos de caça de maneira interativa e lúdica para o tutor.
+
+A mecânica do jogo possui animais e objetos passando pela tela e, quando o gato "caça", solta um som similar ao animal caçado e desaparece. Assim, conforme o gato caça, passa de fase e ganha seus petiscos. O objetivo é que o gato associe o som à comida.
+
+Estatísticas sobre o gato, quanto tempo demora para passar de fase, reflexo e outros atributos para acompanhar a melhora da natureza felina do seu gato, aparecem no ícone de perfil do usuário, com informações para desfrute do dono.
+O foco central do jogo é melhorar a saúde principalmente dos gatos que ficam só dentro de casa e treinar ou ativar o instinto de caça de todos os tipos de gatos, além da interação tutor-gato, que proporciona entretenimento para ambos os participantes.
 
 
 ## 📁 Estrutura de pastas
